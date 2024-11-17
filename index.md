@@ -1,0 +1,76 @@
+<!doctype html>
+
+<meta charset="utf-8" />
+<meta name="viewport"
+			content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+
+<title>▴</title>
+
+<style>
+	body {
+		text-align: center;
+		margin: auto auto;
+		background: ghostwhite;
+		display: flex;
+		flex-flow: row wrap;
+		padding: 2.5rem 2rem;
+	}
+
+	.▪ {
+		z-index: 1;
+		position: relative;
+		-webkit-box-flex: 1;
+		-webkit-flex: 1 0 8rem;
+		-ms-flex: 1 0 8rem;
+		flex: 1 0 8rem;
+		font-size: 4rem;
+		line-height: 8rem;
+		height: 8rem;
+		text-decoration: none;
+		color: black;
+	}
+
+	.▪>* {
+		overflow: visible;
+		height: 6rem;
+		width: 100%;
+		position: relative;
+	}
+
+	.▫ {
+		opacity: .05;
+	}
+</style>
+
+# Dmitry Iv
+
+## Apps
+
+* [ ] [ved]() – SVG editor
+* [ ] [metr]() – metronome
+* [ ] [piano-keyboard]() – in-browser piano
+* [ ] [sruti]() – drone generator
+* [ ] [wavearea]() – edit audio in textarea
+
+## Libs
+
+* [ ] [piezo]() – prototype language for sound processing
+* [ ] [jasm]() – js subset compiling to WASM
+* [ ] [subscript]() – syntax parser / expression evaluator
+* [ ] [sprae]() – progressive web-framework for compact apps
+* [ ] [watr]() – WAST compiler, tiny & fast alternative to wabt
+
+## Fonts
+
+* [ ] [wavefont]() – font with bars as characters
+* [ ] [linefont]() – font with lines as characters
+
+## Music
+
+* [ ] [moonlight rite]()
+* [ ] []()
+
+## Orgs
+
+* [krishnized]()
+* [web-being]()

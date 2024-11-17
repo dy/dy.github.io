@@ -1,12 +1,18 @@
-* Merge UI-Kit
+## TODO
 
-* Make post side buttons next and prev
-	* Make them responsible: on mobiles it falls down to flip.
+* [ ] Finish projects MVP
+* [ ] Connect CSS
+* [ ] En/Ru switch
+* [ ] "If you find any of these works useful, please consider donating any amount"
 
-* Make contribution area
+## Goal
 
-* Make clean design with blog, projects
+* Monography. Dmitry Iv lifetime contribution. Main works useful for others.
+* Finish up all the projects
+* Clean, minimal, accurate design. Authentic design style
 
-* Make simply possible list of projects with logos. It’d be nice.
+## Ideas
 
-* Make projects as sub-modules to simplify updating of them (not sure it work);
+* Post side buttons next and prev
+* Clean design: blog, projects
+* Make simply possible list of projects with logos.
