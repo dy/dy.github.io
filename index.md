@@ -44,31 +44,59 @@
 
 # Dmitry Iv
 
-## Apps
+## Monography
 
-* [ ] [ved]() – SVG editor
-* [ ] [metr]() – metronome
-* [ ] [piano-keyboard]() – in-browser piano
-* [ ] [sruti]() – drone generator
-* [ ] [wavearea]() – edit audio in textarea
+### [ ] [vedi]() – SVG editor
 
-## Libs
+Inspiration: I am tired of vector editors taking focus out of vector editing. It just needs to do main things simply: I don't need layouts, flow, interactions etc. Just vector graphics in its purest. Just edit SVG in-place, in most inspiring and efficient way.
+* Good color picker (lch) - not looking palettes elsewhere
+* Font picker: knowing fonts / matches / suggestions
+* Text transforms like kittl, curve etc
+* Free transform, skew, perspective
+* No cloud, save files locally as SVG
+* Symmetry for patterns / mandalas
+* Built-in image tracing
+* Pixel layers: merge, paint, inverse (core of photopea)
+* procedural bgs with randomization (plugin?)
+* multiple strokes/outlines
+* Images filters: like pxlr
+* vector network wo bugs
 
-* [ ] [piezo]() – prototype language for sound processing
-* [ ] [jasm]() – js subset compiling to WASM
-* [ ] [subscript]() – syntax parser / expression evaluator
-* [ ] [sprae]() – progressive web-framework for compact apps
-* [ ] [watr]() – WAST compiler, tiny & fast alternative to wabt
+### [ ] [metr]() – metronome
+### [ ] [plyr]() - minimalistic audio player
+### [ ] [piano-keyboard]() – in-browser piano
+### [ ] [sruti]() – drone generator
+### [ ] [wavearea]() – edit audio in textarea
+### [ ] [piezo]() – prototype language for sound processing
+### [ ] [jasm]() – js subset compiling to WASM
+### [ ] [watr]() – light & fast WASM compiler
+### [ ] [subscript]() – syntax parser / expression evaluator
+### [ ] [sprae]() – progressive web-framework for compact apps
+### [ ] [wavefont]() – font with bars as characters
+### [ ] [linefont]() – font with lines as characters
 
-## Fonts
+## Sonography
 
-* [ ] [wavefont]() – font with bars as characters
-* [ ] [linefont]() – font with lines as characters
+### [ ] [endless beginnings]()
 
-## Music
+### [ ] [govindam adi purusam]()
+	* bossa version
+	* minimal guitar version
+	* chillhop version
+	* translated verses
 
-* [ ] [moonlight rite]()
-* [ ] []()
+### [ ] [marketplace of love]()
+	* lounge version
+
+### [ ] [moonlight rite]()
+	* [ ] jazzier version
+	* [ ] fixed imagery
+
+### Older works
+	* My moms favorites
+
+## Chronography
+
 
 ## Orgs
 
