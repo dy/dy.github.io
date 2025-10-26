@@ -2,6 +2,46 @@
   * inspired by https://www.keithcirkel.co.uk/)
   * style: ghost white mainframe, braun-like, dark for coding parts
 
+## Goal
+
+* Monography. Dmitry Iv lifetime contribution. Main works useful for others.
+* Finish up all the projects
+* Clean, minimal, accurate authentic design.
+
+## Principles
+
+* No need to introduce your own name, that's temporary
+* Man is known by his works, not words: showcase works
+* No need to give link to resume - you're not selling yourself
+* Each preview is interactive and/or animated
+* No words: real international website
+* Project bundle:
+
+## Project bundle
+
+* Images
+* Animated images / mini-demo
+* Title: acronym
+* Tagline
+* Og data
+* Live demo
+* Source
+* Docs
+* Logo / icon
+* Comments
+* Likes
+* x.com
+* Devhunt, producthunt
+* changelog
+* use cases
+* support, feedback
+* sponsor
+* plans (wishlist)
+* date
+* version
+* category / tags
+*
+
 ## Sections
 
 ### Works: projects, explorations
@@ -25,12 +65,6 @@
 
 ### Social
   * twitter, email, linkedin
-
-## Goal
-
-* Monography. Dmitry Iv lifetime contribution. Main works useful for others.
-* Finish up all the projects
-* Clean, minimal, accurate design. Authentic design style
 
 ## Ideas
 
