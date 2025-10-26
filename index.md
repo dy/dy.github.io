@@ -1,11 +1,3 @@
-<!doctype html>
-
-<meta charset="utf-8" />
-<meta name="viewport"
-			content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
-
-<title>▴</title>
-
 <style>
 	body {
 		margin: auto auto;
@@ -55,35 +47,35 @@ Open-source enthousiast with focus on aesthetic DX, eclectic design, minimalism 
 
 ## Technography
 
-<!-- ### [ ] [plyr]() - minimalistic audio player
-### [ ] [piano-keyboard]() – in-browser piano
-### [ ] [sruti]() – drone generator
-### [ ] [metr]() – metronome / drum practice helper
-### [ ] [wavearea]() – edit audio in textarea
-### [ ] [piezo]() – prototype language for sound processing
-### [ ] [jz]() – js subset compiling to WASM
-### [ ] [watr]() – light & fast WASM compiler -->
-### [ ] [sprae]() – progressive enhancement framework
-### [ ] [subscript]() – syntax parser / expression evaluator
-### [ ] [wavefont]() – font with bars as characters
-### [ ] [linefont]() – font with lines as characters
+<!-- ### [plyr]() - minimalistic audio player
+### [piano-keyboard]() – in-browser piano
+### [sruti]() – drone generator
+### [metr]() – metronome / drum practice helper
+### [wavearea]() – edit audio in textarea
+### [piezo]() – prototype language for sound processing
+### [jz]() – js subset compiling to WASM
+### [watr]() – light & fast WASM compiler -->
+### [sprae](/sprae) – progressive enhancement framework
+### [subscript](/subscript) – syntax parser / expression evaluator
+### [wavefont](/wavefont) – font with bars as characters
+### [linefont](/linefont) – font with lines as characters
 
 <!-- ## Sonography
 
-### [ ] [endless beginnings]()
+### [endless beginnings]()
 
-### [ ] [govindam adi purusam]()
+### [govindam adi purusam]()
 	* bossa version
 	* minimal guitar version
 	* chillhop version
 	* translated verses
 
-### [ ] [marketplace of love]()
+### [marketplace of love]()
 	* lounge version
 
-### [ ] [moonlight rite]()
-	* [ ] jazzier version
-	* [ ] fixed imagery
+### [moonlight rite]()
+	* jazzier version
+	* fixed imagery
 
 ### Older works
 	* My moms favorites

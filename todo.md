@@ -1,6 +1,6 @@
-* [ ] Wavefont - font with bars as characters
-* [ ] Linefont - font with lines as characters
-* [ ] Sprae - simple progressive enhancement
+* [ ] Wavefont demo - font with bars as characters
+* [ ] Linefont demo - font with lines as characters
+* [x] Sprae - simple progressive enhancement
 * [ ] Wavearea
 * [ ] LDT
   * Useful audio editor
