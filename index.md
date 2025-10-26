@@ -21,7 +21,9 @@
 			transition: background-position 0.05s;
 		}
 
-		main {
+		.markdown-body, main {
+			position: relative;
+
 			h1, h2, h3 {
 
 			}
@@ -139,4 +141,4 @@ Open-source enthousiast with focus on purpose-driven software, eclectic design, 
 
 
 <script src="//unpkg.com/sprae" prefix="data-js-"></script>
-<div data-js-scope="x=0, y=0" data-js-onmousemove.document="e => { x = e.clientX; y = e.clientY; }" data-js-style.root="{'--x': x + 'px', '--y': y + 'px'}"></div>
+<div data-js-scope="x=0, y=0" data-js-fx="console.log(123123)" data-js-onmousemove.document="e => { x = e.clientX; y = e.clientY; }" data-js-style.root="{'--x': x + 'px', '--y': y + 'px'}"></div>
