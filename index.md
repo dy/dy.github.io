@@ -17,7 +17,7 @@
 			right: 0;
 			bottom: 0;
 			pointer-events: none;
-			background: radial-gradient(circle at var(--x, 50%) var(--y, 50%), white, transparent 54%);
+			background: radial-gradient(circle at var(--x, 50%) 0, white, transparent 54%);
 			transition: background-position 0.05s;
 		}
 
