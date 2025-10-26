@@ -35,6 +35,16 @@
 		}
 	}
 
+	ul {
+		padding: 0;
+		padding-left: 1.5ch;
+
+		li::marker {
+			content: "· ";
+		}
+	}
+
+
 	/* hide github h1 */
 	h1:first-of-kind {
 		display: none;
