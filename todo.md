@@ -1,3 +1,5 @@
+* [ ] Make sprae work
+
 * [ ] Wavefont demo - font with bars as characters
 * [ ] Linefont demo - font with lines as characters
 * [x] Sprae - simple progressive enhancement
