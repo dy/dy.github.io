@@ -6,8 +6,10 @@
 		flex-flow: row wrap;
 		padding: 2rem 2rem;
 		font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+		--black: #24292e;
 	}
 	.markdown-body {
+		color: var(--black);
 		h1, h2, h3 {
 
 		}
@@ -23,7 +25,8 @@
 			text-decoration-line: underline;
 		}
 		a:hover {
-			text-decoration-color: slategray;
+			text-decoration-color: currentColor;
+			color: var(--black);
 		}
 
 
