@@ -36,7 +36,7 @@
 	}
 </style>
 
-# Dmitry Iv.
+<!-- # Dmitry Iv. -->
 
 Open-source enthousiast with focus on aesthetic DX, eclectic design, minimalism and performance, purpose-driven software.</p>
 
