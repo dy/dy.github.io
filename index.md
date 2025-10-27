@@ -114,7 +114,7 @@ Open-source enthusiast with focus on aesthetic DX, eclectic design, minimalism, 
 
 * [sprae](/sprae) – aesthetic progressive enhancement framework
 * [subscript](/subscript) – syntax parser / expression evaluator
-* [watr](/watr/repl) – light & fast WASM compiler
+* [watr](/watr/repl) – wat to wasm compiler
 * [wavefont](/wavefont) – font with bars as characters
 * [linefont](/linefont) – font with lines as characters
 
