@@ -1,13 +1,15 @@
-* [ ] Make sprae work
+* [x] Sprae - simple progressive enhancement
+  * [x] Make sprae work
+
+* [ ] Watr
+  * [ ] Watr demo
+* [ ] Metr
+* [ ] Wavearea
 
 * [ ] Wavefont demo - font with bars as characters
 * [ ] Linefont demo - font with lines as characters
-* [x] Sprae - simple progressive enhancement
-* [ ] Wavearea
 * [ ] LDT
   * Useful audio editor
-* [ ] Metr
-  * Useful for mridanga practice metronome
 * [ ] jz
   * JS subset compilable to WASM
 * [ ] watr - wasm compiler
