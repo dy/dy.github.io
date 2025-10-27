@@ -110,10 +110,11 @@ Open-source enthusiast with focus on aesthetic DX, eclectic design, minimalism, 
 * [wavearea]() – edit audio in textarea
 * [piezo]() – prototype language for sound processing
 * [jz]() – js subset compiling to WASM
-* [watr]() – light & fast WASM compiler -->
+-->
 
 * [sprae](/sprae) – aesthetic progressive enhancement framework
 * [subscript](/subscript) – syntax parser / expression evaluator
+* [watr](/watr/repl) – light & fast WASM compiler
 * [wavefont](/wavefont) – font with bars as characters
 * [linefont](/linefont) – font with lines as characters
 
