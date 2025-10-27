@@ -32,7 +32,7 @@
 				max-width: 82ch;
 			}
 
-			a {
+			a:not(.anchorjs-link) {
 				color: slategray;
 				text-decoration-color: rgb(from currentColor r g b / 20%);
 				text-underline-offset: .2em;
