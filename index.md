@@ -85,7 +85,7 @@
 
 # Dmitry Iv.
 
-Open-source enthousiast with focus on purpose-driven software, eclectic design, aesthetic DX, minimalism and performance.
+Open-source enthusiast with focus on purpose-driven software, aesthetic developer experience, eclectic design, minimalism, and performance.
 
 <nav style="display: flex; gap: 1rem; margin-top: 1rem; align-items: center">
 	<a href="https://github.com/dy" title="github">
