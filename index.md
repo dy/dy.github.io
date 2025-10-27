@@ -140,6 +140,6 @@ Open-source enthousiast with focus on purpose-driven software, eclectic design, 
 * [web-being]() -->
 
 
-<script src="//unpkg.com/sprae" start></script>
+<script src="//unpkg.com/sprae" start prefix="js-"></script>
 
-<div :scope="x=0, y=0" :onmousemove.document="e => { x = e.clientX; y = e.clientY; }" :style.root="{'--x': x + 'px', '--y': y + 'px'}"></div>
+<div js-scope="x=0, y=0" js-onmousemove.document="e => { x = e.clientX; y = e.clientY; }" js-style.root="{'--x': x + 'px', '--y': y + 'px'}"></div>
