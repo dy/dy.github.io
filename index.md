@@ -32,17 +32,19 @@
 				max-width: 82ch;
 			}
 
-			a:not(.anchorjs-link) {
+			a {
 				color: slategray;
 				text-decoration-color: rgb(from currentColor r g b / 20%);
 				text-underline-offset: .2em;
 				text-decoration-line: underline;
+				&.anchorjs-link {
+					text-decoration: none;
+				}
 			}
 			a:hover {
 				text-decoration-color: currentColor;
 				color: var(--black);
 			}
-
 
 			header {
 				width: 100%;
