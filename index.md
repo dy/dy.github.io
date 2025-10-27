@@ -118,6 +118,26 @@ Open-source enthusiast with focus on aesthetic DX, eclectic design, minimalism, 
 * [wavefont](/wavefont) – font with bars as characters
 * [linefont](/linefont) – font with lines as characters
 
+<!-- * [popoff](/popoff) – dropdowns, popovers & tooltips manager -->
+<!-- * [placer](/placer) – relative elements placement -->
+<!-- * [color-picker](/color-picker) – font with lines as characters -->
+<!-- * [piano-keyboard](/piano-keyboard) – font with lines as characters -->
+<!-- * [audio-lab](/audio-lab) – font with lines as characters -->
+<!-- * [settings-panel](/settings-panel) – font with lines as characters -->
+<!-- * [gl-waveform](/gl-waveform) – font with lines as characters -->
+<!-- * [gl-spectrum](/gl-spectrum) – font with lines as characters -->
+<!-- * [gl-spectrogram](/gl-spectrogram) – font with lines as characters -->
+<!-- * [font-measure](/font-measure) – font with lines as characters -->
+<!-- * [gauge](/gauge) – circular gauge component -->
+<!-- * [font-measure](/font-measure) – font with lines as characters -->
+<!-- * [tst](/tst) – tests without efforts -->
+<!-- * [resizable](/resizable) – font with lines as characters -->
+<!-- * [draggy](/draggy) – font with lines as characters -->
+<!-- * [slidy](/slidy) – font with lines as characters -->
+<!-- * [patr](/patr) – russian patronimic builder -->
+
+
+
 <!-- ## Sono (graphy)
 
 * [endless beginnings]()
@@ -145,6 +165,14 @@ Open-source enthusiast with focus on aesthetic DX, eclectic design, minimalism, 
 <!-- Biblio -->
 
 <!-- Bio -->
+
+<!-- ## Orgs -->
+
+<!-- * [audiojs]() – -->
+<!-- * [colorjs]() – -->
+<!-- * [scrapjs]() – -->
+<!-- * [web-being](//web-being.github.io) – web-sites for friends and good people -->
+<!-- * [krishnized](//krishnized.github.io) – spiritual projects -->
 
 <script src="//unpkg.com/sprae" start prefix="js-"></script>
 

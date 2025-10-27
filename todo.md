@@ -1,34 +1,22 @@
 * [x] Sprae - simple progressive enhancement
   * [x] Make sprae work
 
-* [ ] Watr
-  * [ ] Watr demo
+* [ ] subscript demo
+
+* [ ] Watr Demo
+* [ ] watr finish
 * [ ] Metr
 * [ ] Wavearea
+
+* [ ] oldies
+
+* [ ] group items by year
 
 * [ ] Wavefont demo - font with bars as characters
 * [ ] Linefont demo - font with lines as characters
 * [ ] LDT
-  * Useful audio editor
-* [ ] jz
-  * JS subset compilable to WASM
-* [ ] watr - wasm compiler
-* [ ] [subscript]() – syntax parser / expression evaluator
+  * [ ] Update sprae
+* [ ] jz - JS subset compilable to WASM
 * [ ] Sruti
-  * Drone gen
 * [ ] Vedi
-  * Inspiration: I am tired of vector editors taking focus out of vector editing. It just needs to do main things simply: I don't need layouts, flow, interactions etc. Just vector graphics in its purest. Just edit SVG in-place, in most inspiring and efficient way.
-  * Good color picker (lch) - not looking palettes elsewhere
-  * Font picker: knowing fonts / matches / suggestions
-  * Text transforms like kittl, curve etc
-  * Free transform, skew, perspective
-  * No cloud, save files locally as SVG
-  * Symmetry for patterns / mandalas
-  * Built-in image tracing
-  * Pixel layers: merge, paint, inverse (core of photopea)
-  * procedural bgs with randomization (plugin?)
-  * multiple strokes/outlines
-  * Images filters: like pxlr
-  * vector network wo bugs
-
 * [ ] Vani
