@@ -115,7 +115,7 @@ Open-source enthusiast with focus on purpose-driven software, aesthetic develope
 * [wavefont](/wavefont) – font with bars as characters
 * [linefont](/linefont) – font with lines as characters
 
-<!-- ## Sonography
+<!-- ## Sono (graphy)
 
 * [endless beginnings]()
 
@@ -139,6 +139,9 @@ Open-source enthusiast with focus on purpose-driven software, aesthetic develope
 <!-- * [krishnized]()
 * [web-being]() -->
 
+<!-- Biblio -->
+
+<!-- Bio -->
 
 <script src="//unpkg.com/sprae" start prefix="js-"></script>
 
