@@ -25,7 +25,7 @@
 			position: relative;
 
 			h1, h2, h3 {
-
+				text-shadow: 0 1px white;
 			}
 			p {
 				margin: 0;
@@ -140,6 +140,6 @@ Open-source enthousiast with focus on purpose-driven software, eclectic design, 
 * [web-being]() -->
 
 
-<script src="//unpkg.com/sprae" prefix="data-js-" start></script>
+<script src="//unpkg.com/sprae" start></script>
 
-<div data-js-scope="x=0, y=0" data-js-fx="console.log(123123)" data-js-onmousemove.document="e => { x = e.clientX; y = e.clientY; }" data-js-style.root="{'--x': x + 'px', '--y': y + 'px'}"></div>
+<div :scope="x=0, y=0" :onmousemove.document="e => { x = e.clientX; y = e.clientY; }" :style.root="{'--x': x + 'px', '--y': y + 'px'}"></div>
