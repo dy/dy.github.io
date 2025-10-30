@@ -20,3 +20,6 @@
 * [ ] Sruti
 * [ ] Vedi
 * [ ] Vani
+
+* [ ] mridang.am
+* [ ] DSP filters collection

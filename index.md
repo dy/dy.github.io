@@ -68,7 +68,7 @@
 
 			ul {
 				padding: 0;
-				padding-left: 2ch;
+				padding-left: 1.5ch;
 
 				/* li::marker {
 					content: "· ";
