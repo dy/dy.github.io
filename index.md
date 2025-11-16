@@ -28,7 +28,7 @@ Open-source enthusiast with focus on aesthetic DX, eclectic design, minimalism, 
 * [jz]() – js subset compiling to WASM
 -->
 
-* [sprae](/sprae) – progressive enhancement framework
+* [sprae](/sprae) – reactive progressive enhancement framework
 * [subscript](/subscript) – syntax parser / expression evaluator
 * [watr](/watr/) – wat to wasm compiler
 * [wavefont](/wavefont) – font with bars as characters
