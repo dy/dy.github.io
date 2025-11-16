@@ -1,89 +1,4 @@
-<style>
-	body {
-		margin: auto auto;
-		background: ghostwhite;
-		display: flex;
-		flex-flow: row wrap;
-		padding: 2rem 2rem;
-		font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
-		--black: #24292e;
-		color: var(--black);
-
-		&::before {
-			content: '';
-			position: fixed;
-			top: 0;
-			left: 0;
-			right: 0;
-			bottom: 0;
-			pointer-events: none;
-			background: radial-gradient(circle at var(--x, 50%) 0, white, transparent 54%);
-			transition: background-position 0.05s;
-		}
-
-		.markdown-body, main {
-			position: relative;
-
-			h1, h2, h3 {
-				text-shadow: 0 1px white;
-			}
-			p {
-				margin: 0;
-				max-width: 82ch;
-			}
-
-			a {
-				color: slategray;
-				text-decoration-color: rgb(from currentColor r g b / 20%);
-				text-underline-offset: .2em;
-				text-decoration-line: underline;
-				&.anchorjs-link {
-					text-decoration: none;
-				}
-			}
-			a:hover {
-				text-decoration-color: currentColor;
-				color: var(--black);
-			}
-
-			header {
-				width: 100%;
-				display: flex;
-				flex-direction: column;
-				align-items: baseline;
-				gap: 1rem;
-				margin-bottom: 2rem;
-				.github {
-					margin-left: auto;
-					color: inherit;
-					text-decoration: none;
-				}
-			}
-
-			article {
-				figure {
-					margin: 0
-				}
-			}
-
-			ul {
-				padding: 0;
-				padding-left: 1.5ch;
-
-				/* li::marker {
-					content: "· ";
-				} */
-			}
-
-
-			/* hide github h1 */
-			h1:first-of-type {
-				display: none;
-			}
-		}
-	}
-</style>
-
+<link rel="stylesheet" href="./style.css"/>
 
 # Dmitry Iv.
 
@@ -106,7 +21,8 @@ Open-source enthusiast with focus on aesthetic DX, eclectic design, minimalism, 
 <!-- * [plyr]() - minimalistic audio player
 * [piano-keyboard]() – in-browser piano
 * [sruti]() – drone generator
-* [metr]() – metronome / drum practice helper
+* [maetr]() – metronome / drum practice helper
+* [maentr]() – mantra player
 * [wavearea]() – edit audio in textarea
 * [piezo]() – prototype language for sound processing
 * [jz]() – js subset compiling to WASM
@@ -118,6 +34,14 @@ Open-source enthusiast with focus on aesthetic DX, eclectic design, minimalism, 
 * [wavefont](/wavefont) – font with bars as characters
 * [linefont](/linefont) – font with lines as characters
 
+<!-- ### Typo -->
+
+<!-- * [muso](/muso) – font for beatboxers -->
+<!-- * [pianola](/pianola) – font for beatboxers -->
+
+<!-- ### Tools -->
+
+<!-- * [tst](/tst) – tests without efforts -->
 <!-- * [popoff](/popoff) – dropdowns, popovers & tooltips manager -->
 <!-- * [placer](/placer) – relative elements placement -->
 <!-- * [color-picker](/color-picker) – font with lines as characters -->
@@ -130,7 +54,6 @@ Open-source enthusiast with focus on aesthetic DX, eclectic design, minimalism, 
 <!-- * [font-measure](/font-measure) – font with lines as characters -->
 <!-- * [gauge](/gauge) – circular gauge component -->
 <!-- * [font-measure](/font-measure) – font with lines as characters -->
-<!-- * [tst](/tst) – tests without efforts -->
 <!-- * [resizable](/resizable) – font with lines as characters -->
 <!-- * [draggy](/draggy) – font with lines as characters -->
 <!-- * [slidy](/slidy) – font with lines as characters -->
