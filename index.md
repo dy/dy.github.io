@@ -62,7 +62,7 @@ Open-source enthusiast with focus on aesthetic DX, eclectic design, minimalism, 
 
 
 
-<!-- ## Sono (graphy)
+<!-- ## Sonography
 
 * [endless beginnings]()
 
