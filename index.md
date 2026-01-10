@@ -27,11 +27,12 @@ Open-source enthusiast with focus on aesthetic DX, eclectic design, minimalism, 
 * [jz]() – js subset compiling to WASM
 -->
 
-* [sprae](/sprae) – signals-based hydration for HTML / JSX
-* [subscript](/subscript) – syntax parser / expression evaluator
 * [watr](/watr/) – wat to wasm compiler
-* [spect](/spect) – observable selectors in DOM
+* [subscript](/subscript) – syntax parser / expression evaluator
+* [tst](/tst) – tests without <em>e</em>fforts
 * [glsl-transpiler](https://github.com/stackgl) – convert GLSL to JS
+* [sprae](/sprae) – signals-based hydration for HTML / JSX
+* [spect](/spect) – observable selectors in DOM
 
 ### Typography
 
