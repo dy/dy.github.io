@@ -88,3 +88,78 @@ body {
     }
   }
 }
+
+/* Mobile styles */
+@media (max-width: 768px) {
+  body {
+    padding: 1rem;
+    font-size: 0.95rem;
+
+    .markdown-body,
+    main {
+      header {
+        gap: 0.75rem;
+        margin-bottom: 1.5rem;
+
+        .github {
+          margin-left: 0;
+          margin-top: 0.5rem;
+        }
+      }
+
+      h1 { font-size: 1.75rem; }
+      h2 { font-size: 1.4rem; }
+      h3 { font-size: 1.15rem; }
+
+      p {
+        max-width: 100%;
+        line-height: 1.6;
+      }
+
+      ul {
+        padding-left: 0.5rem;
+      }
+
+      a {
+        text-underline-offset: 0.15em;
+      }
+    }
+  }
+}
+
+/* Small mobile */
+@media (max-width: 480px) {
+  body {
+    padding: 0.75rem;
+    font-size: 0.9rem;
+
+    .markdown-body,
+    main {
+      header {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      h1 { font-size: 1.5rem; }
+      h2 { font-size: 1.25rem; }
+      h3 { font-size: 1.1rem; }
+    }
+  }
+}
+
+/* Touch-friendly tap targets */
+@media (hover: none) and (pointer: coarse) {
+  body {
+    .markdown-body,
+    main {
+      a {
+        padding: 0.25em 0;
+        margin: -0.25em 0;
+      }
+
+      ul li {
+        padding: 0.25em 0;
+      }
+    }
+  }
+}
