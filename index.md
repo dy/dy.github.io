@@ -99,7 +99,7 @@ Making minimal tools for sound, color, type & code.
 <!-- * [web-being](//web-being.github.io) – web-sites for friends and good people -->
 <!-- * [krishnized](//krishnized.github.io) – spiritual projects -->
 
-[ॐ](https://krishnized.github.io/license)
+<p style="text-align:center; margin-top:4rem"><a href="https://krishnized.github.io/license">ॐ</a></p>
 
 <script src="//unpkg.com/sprae" start prefix="js-"></script>
 
