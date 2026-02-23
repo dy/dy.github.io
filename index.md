@@ -2,7 +2,7 @@
 
 # Dmitry Iv.
 
-Open-source enthusiast with focus on aesthetic DX, eclectic design, minimalism, and performance.
+Making minimal tools for sound, color, type & code.
 
 <nav style="display: flex; gap: 1rem; margin-top: 1rem; align-items: center">
 	<a href="https://github.com/dy" title="github">
@@ -27,12 +27,12 @@ Open-source enthusiast with focus on aesthetic DX, eclectic design, minimalism, 
 * [jz]() – js subset compiling to WASM
 -->
 
-* [watr](/watr/) – wat to wasm compiler
-* [subscript](/subscript) – syntax parser / expression evaluator
-* [tst](/tst) – tests without <em>e</em>fforts
-* [glsl-transpiler](https://github.com/stackgl) – convert GLSL to JS
 * [sprae](/sprae) – signals-based hydration for HTML / JSX
+* [subscript](/subscript) – syntax parser / expression evaluator
+* [watr](/watr/) – wat to wasm compiler
+* [glsl-transpiler](https://github.com/stackgl) – convert GLSL to JS
 * [spect](/spect) – observable selectors in DOM
+* [tst](/tst) – tests without <em>e</em>fforts
 
 ### Typography
 
