@@ -15,7 +15,7 @@
 * [ ] Wavefont demo - font with bars as characters
 * [ ] Linefont demo - font with lines as characters
 * [ ] LDT
-  * [ ] Update sprae
+  * [x] Update sprae
 * [ ] jz - JS subset compilable to WASM
 * [ ] Sruti
 * [ ] Vedi
