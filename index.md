@@ -27,6 +27,7 @@ Making minimal tools for sound, color, type & code.
 * [jz]() – js subset compiling to WASM
 -->
 
+* [audio-decode](https://github.com/audiojs/audio-decode) – JS/WASM audio decoders
 * [sprae](/sprae) – signals-based hydration for HTML / JSX
 * [subscript](/subscript) – syntax parser / expression evaluator
 * [watr](/watr/) – wat to wasm compiler
