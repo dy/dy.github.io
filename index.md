@@ -15,89 +15,57 @@ Making minimal tools for sound, color, type & code.
 	</a>
 </nav>
 
-## Technography
+## Audio
 
-<!-- * [plyr]() - minimalistic audio player
-* [piano-keyboard]() – in-browser piano
-* [sruti]() – drone generator
-* [maetr]() – metronome / drum practice helper
-* [maentr]() – mantra player
-* [wavearea]() – edit audio in textarea
-* [piezo]() – prototype language for sound processing
-* [jz]() – js subset compiling to WASM
--->
-
+* [web-audio-api](https://github.com/audiojs/web-audio-api) – portable Web Audio API
 * [audio-decode](https://github.com/audiojs/audio-decode) – JS/WASM audio decoders
-* [sprae](/sprae) – signals-based hydration for HTML / JSX
-* [subscript](/subscript) – syntax parser / expression evaluator
-* [watr](/watr/) – wat to wasm compiler
-* [glsl-transpiler](https://github.com/stackgl) – convert GLSL to JS
+* [fourier-transform](https://github.com/audiojs/fourier-transform) – minimal FFT
+* [gl-waveform](https://github.com/dy/gl-waveform) – WebGL waveform renderer
+* [gl-spectrum](https://github.com/dy/gl-spectrum) – spectrum visualizer
+* [gl-spectrogram](https://github.com/dy/gl-spectrogram) – spectrogram visualizer
+<!-- * [wavearea](https://github.com/dy/wavearea) – multiline audio editor -->
+<!-- * [piezo](https://github.com/dy/piezo) – signal processing language -->
+<!-- * [audio-lab](/audio-lab) – audio processing tools -->
+<!-- * [piano-keyboard](/piano-keyboard) – font with lines as characters -->
+
+## Type
+
+* [wavefont](/wavefont) – bars as characters
+* [linefont](/linefont) – lines as characters
+* [font-measure](https://github.com/dy/font-measure) – compute font metrics
+
+## Code
+
+* [settings-panel](/settings-panel) – controls for tweaking apps
+* [sprae](/sprae) – signals-based DOM hydration
+* [subscript](/subscript) – expression parser / evaluator
+* [watr](/watr/) – WAT to WASM compiler
 * [spect](/spect) – observable selectors in DOM
+* [define-element](/define-element) – declarative custom elements
+* [glsl-transpiler](https://github.com/stackgl) – GLSL to JS
 * [tst](/tst) – tests without <em>e</em>fforts
 
-### Typography
-
-* [wavefont](/wavefont) – font with bars as characters
-* [linefont](/linefont) – font with lines as characters
-<!-- * [muso](/muso) – font for beatboxers -->
-<!-- * [pianola](/pianola) – font for beatboxers -->
-
-<!-- ### Tools -->
-
-<!-- * [tst](/tst) – tests without efforts -->
 <!-- * [popoff](/popoff) – dropdowns, popovers & tooltips manager -->
 <!-- * [placer](/placer) – relative elements placement -->
 <!-- * [color-picker](/color-picker) – font with lines as characters -->
-<!-- * [piano-keyboard](/piano-keyboard) – font with lines as characters -->
-<!-- * [audio-lab](/audio-lab) – font with lines as characters -->
-<!-- * [settings-panel](/settings-panel) – font with lines as characters -->
-<!-- * [gl-waveform](/gl-waveform) – font with lines as characters -->
-<!-- * [gl-spectrum](/gl-spectrum) – font with lines as characters -->
-<!-- * [gl-spectrogram](/gl-spectrogram) – font with lines as characters -->
-<!-- * [font-measure](/font-measure) – font with lines as characters -->
-<!-- * [gauge](/gauge) – circular gauge component -->
-<!-- * [font-measure](/font-measure) – font with lines as characters -->
 <!-- * [resizable](/resizable) – font with lines as characters -->
 <!-- * [draggy](/draggy) – font with lines as characters -->
 <!-- * [slidy](/slidy) – font with lines as characters -->
 <!-- * [patr](/patr) – russian patronimic builder -->
 
-
+<!-- ## Color -->
+<!-- * [color-space](https://github.com/colorjs/color-space) – color space conversions -->
 
 <!-- ## Sonography
-
 * [endless beginnings]()
-
 * [govindam adi purusam]()
-	* bossa version
-	* minimal guitar version
-	* chillhop version
-	* translated verses
-
 * [marketplace of love]()
-	* lounge version
-
 * [moonlight rite]()
-	* jazzier version
-	* fixed imagery
+-->
 
-* Older works
-	* My moms favorites
- -->
-
-<!-- * [krishnized]()
-* [web-being]() -->
-
-<!-- Biblio -->
-
-<!-- Bio -->
-
-<!-- ## Orgs -->
-
-<!-- * [audiojs]() – -->
-<!-- * [colorjs]() – -->
-<!-- * [scrapjs]() – -->
-<!-- * [web-being](//web-being.github.io) – web-sites for friends and good people -->
+## Orgs
+* [audiojs](https://github.com/audiojs) – audio infrastructure for js
+* [colorjs](https://github.com/colorjs) – color tools for js
 <!-- * [krishnized](//krishnized.github.io) – spiritual projects -->
 
 <p style="text-align:center; margin-top:4rem"><a href="https://krishnized.github.io/license">ॐ</a></p>

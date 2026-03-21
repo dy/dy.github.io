@@ -1,2 +1,5 @@
 _site
 design
+Gemfile.lock
+/.claude
+/.playwright-mcp
