@@ -3,3 +3,5 @@ design
 Gemfile.lock
 /.claude
 /.playwright-mcp
+/refs
+.DS_Store

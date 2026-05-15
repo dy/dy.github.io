@@ -1,0 +1,12 @@
+plugins:
+  - jekyll-optional-front-matter
+
+kramdown:
+  syntax_highlighter: rouge
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"

@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="./style.css"/>
-
 # Dmitry Iv.
 
 Making minimal tools for sound, color, type & code.
