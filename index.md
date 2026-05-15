@@ -8,52 +8,52 @@
 <div class="section" markdown="1">
 #### Audio
 
-* [audio](https://github.com/audiojs/audio) – versatile audio editing
-* [web-audio-api](https://github.com/audiojs/web-audio-api) – portable Web Audio API
-* [audio-decode](https://github.com/audiojs/audio-decode) – JS/WASM audio decoders
-* [fourier-transform](https://github.com/audiojs/fourier-transform) – minimal FFT
+* [audio](https://github.com/audiojs/audio) – virtual audio
+* [web-audio-api](https://github.com/audiojs/web-audio-api) – headless web audio
+* [audio-decode](https://github.com/audiojs/audio-decode) – universal decoding
+* [fourier-transform](https://github.com/audiojs/fourier-transform) – furious FFT
 </div>
 
 <div class="section" markdown="1">
 #### UI
 
-* [sprae](/sprae) – signals-based DOM micro-hydration
+* [sprae](/sprae) – micro-hydration
 * [define-element](/define-element) – declarative custom elements
-* [settings-panel](/settings-panel) – controls for tweaking apps
-* [spect](/spect) – observable selectors in DOM
+* [settings-panel](/settings-panel) – dials & knobs
+* [spect](/spect) – live DOM queries
 </div>
 
 <div class="section" markdown="1">
 #### Visual
 
-* [gl-waveform](https://github.com/dy/gl-waveform) – WebGL waveform renderer
-* [gl-spectrum](https://github.com/dy/gl-spectrum) – spectrum visualizer
-* [gl-spectrogram](https://github.com/dy/gl-spectrogram) – spectrogram visualizer
+* [gl-waveform](https://github.com/dy/gl-waveform) – GPU waveform
+* [gl-spectrum](https://github.com/dy/gl-spectrum) – GPU spectra
+* [gl-spectrogram](https://github.com/dy/gl-spectrogram) – GPU sonograms
 </div>
 
 <div class="section" markdown="1">
 #### Type
 
-* [wavefont](/wavefont) – bars as characters
-* [linefont](/linefont) – lines as characters
-* [font-measure](https://github.com/dy/font-measure) – compute font metrics
+* [wavefont](/wavefont) – sound as type
+* [linefont](/linefont) – data as type
+* [font-measure](https://github.com/dy/font-measure) – typographic anatomy
 </div>
 
 <div class="section" markdown="1">
 #### Code
 
-* [jz](/jz/) – JS to WASM compiler
-* [watr](/watr/) – WAT to WASM compiler
-* [subscript](/subscript) – fast expression parser
-* [glsl-transpiler](https://github.com/stackgl) – GLSL to JS compiler
-* [tst](/tst) – tests without <em>e</em>fforts
+* [jz](/jz/) – JS → WASM
+* [watr](/watr/) – WAT → WASM
+* [subscript](/subscript) – atomic parser
+* [glsl-transpiler](https://github.com/stackgl) – GLSL → JS
+* [tst](/tst) – invisible tests
 </div>
 
 <div class="section" markdown="1">
 #### Orgs
 
-* [audiojs](https://github.com/audiojs) – audio infrastructure for js
-* [colorjs](https://github.com/colorjs) – color tools for js
+* [audiojs](https://github.com/audiojs) – audio infrastructure
+* [colorjs](https://github.com/colorjs) – chromatic science
 <!-- * [krishnized](//krishnized.github.io) – spiritual projects -->
 
 <nav style="display: flex; gap: 1rem; margin-top: auto; padding-top: 3rem; align-items: center;">
