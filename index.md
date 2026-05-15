@@ -8,7 +8,7 @@
 <div class="section" markdown="1">
 #### Audio
 
-* [audio](https://github.com/audiojs/audio) – virtual audio
+* [audio](https://github.com/audiojs/audio) – high-level audio
 * [web-audio-api](https://github.com/audiojs/web-audio-api) – headless web audio
 * [audio-decode](https://github.com/audiojs/audio-decode) – universal decoding
 * [fourier-transform](https://github.com/audiojs/fourier-transform) – furious FFT
