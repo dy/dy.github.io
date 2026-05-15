@@ -34,13 +34,14 @@ Making minimal tools for sound, color, type & code.
 
 ## Code
 
-* [settings-panel](/settings-panel) – controls for tweaking apps
-* [sprae](/sprae) – signals-based DOM hydration
-* [subscript](/subscript) – expression parser / evaluator
+* [jz](/jz/) – JS to WASM compiler
 * [watr](/watr/) – WAT to WASM compiler
-* [spect](/spect) – observable selectors in DOM
+* [subscript](/subscript) – fast expression parser
+* [settings-panel](/settings-panel) – controls for tweaking apps
+* [sprae](/sprae) – signals-based DOM micro-hydration
 * [define-element](/define-element) – declarative custom elements
-* [glsl-transpiler](https://github.com/stackgl) – GLSL to JS
+* [spect](/spect) – observable selectors in DOM
+* [glsl-transpiler](https://github.com/stackgl) – GLSL to JS compiler
 * [tst](/tst) – tests without <em>e</em>fforts
 
 <!-- * [popoff](/popoff) – dropdowns, popovers & tooltips manager -->
