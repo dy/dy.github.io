@@ -2,8 +2,11 @@ body {
   margin: auto auto;
   background: ghostwhite;
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: column;
   justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  box-sizing: border-box;
   padding: 2rem 2rem;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   --black: #24292e;
@@ -25,15 +28,19 @@ body {
   main {
     position: relative;
     margin: 0 auto;
+    width: 100%;
+    max-width: 1200px;
     line-height: 1.5;
     font-size: 16px;
 
     h1, h2, h3, h4, h5, h6 {
       text-shadow: 0 1px white;
-      margin-top: 24px;
+      padding-top: 24px;
+      margin-top: 0;
       margin-bottom: 16px;
       line-height: 1.25;
       font-weight: 600;
+      break-after: avoid;
     }
 
     h1 { font-size: 2em; }
@@ -87,9 +94,10 @@ body {
       list-style-position: inside;
       margin-top: 0;
       margin-bottom: 16px;
+      break-inside: avoid;
 
       li::marker {
-        content: "– ";
+        content: "";
       }
     }
 
@@ -102,13 +110,64 @@ body {
       display: none;
     }
   }
+
+  .content {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+
+    img {
+      max-width: 270px;
+      height: auto;
+      max-height: 320px;
+      margin: 0;
+      display: block;
+    }
+
+    .sections {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem 4rem;
+    }
+
+    .section {
+      break-inside: avoid;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Wide tablet & landscape screens */
+    @media (min-width: 1024px) {
+      grid-template-columns: 0.333fr 1fr;
+      gap: 1rem 6rem;
+
+      img {
+        max-width: 100%;
+        margin: 1.5rem 1.5rem 0 0;
+      }
+    }
+  }
 }
 
-/* Mobile styles */
+  /* Mobile styles */
 @media (max-width: 768px) {
   body {
     padding: 1rem;
     font-size: 0.95rem;
+
+    .content {
+      gap: 2rem;
+      max-width: max-content;
+      margin: 0 auto;
+
+      img {
+        max-width: 100%;
+      }
+
+      .sections {
+        grid-template-columns: 1fr;
+      }
+    }
 
     .markdown-body,
     main {
@@ -132,13 +191,13 @@ body {
       }
 
       ul {
-        padding-left: 0.5rem;
       }
 
       a {
         text-underline-offset: 0.15em;
       }
     }
+
   }
 }
 
