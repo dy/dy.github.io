@@ -149,6 +149,39 @@ body {
   }
 }
 
+.footer-links {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-top: auto;
+  padding-top: 3rem;
+}
+
+.footer-links a {
+  display: inline-flex;
+  width: 1.5rem;
+  height: 1.5rem;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.25rem;
+  color: slategray;
+  text-decoration: none;
+  transition: color 120ms, background-color 120ms;
+}
+
+.footer-links a:hover {
+  color: var(--black);
+  background: rgba(36, 41, 46, 0.08);
+}
+
+.footer-links a:focus-visible {
+  color: var(--black);
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+}
+
+.footer-links small { color: slategray; }
+
   /* Mobile styles */
 @media (max-width: 768px) {
   body {
