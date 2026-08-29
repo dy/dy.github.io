@@ -180,7 +180,27 @@ body {
   outline-offset: 2px;
 }
 
-.footer-links small { color: slategray; }
+.footer-signature {
+  display: inline-flex;
+  gap: 0.25rem;
+  align-items: baseline;
+  color: slategray;
+}
+
+.footer-signature .krishnized {
+  width: auto;
+  height: auto;
+  color: inherit;
+  opacity: 0.5;
+  font-size: 0.7rem;
+  background: transparent;
+}
+
+.footer-signature .krishnized:hover {
+  color: var(--black);
+  opacity: 0.8;
+  background: transparent;
+}
 
   /* Mobile styles */
 @media (max-width: 768px) {
