@@ -66,7 +66,7 @@
 		</svg>
 	</a>
 	<a href="/resume/" title="CV" aria-label="CV">
-		<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M10.5 12H9a2 2 0 0 0 0 4h1.5M12 12l1.5 4 1.5-4"/></svg>
+		<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M11.5 13.5H10a2 2 0 0 0 0 4h1.5M13 13.5l1.5 4 1.5-4"/></svg>
 	</a>
 	<span class="footer-signature">
 		<small>Dmitry Iv</small>
